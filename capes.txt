@@ -3,4 +3,6 @@ Arnab:capedev
 DreamMasterXXL:capedev
 Drobac:capedev
 Teteros:capedev
+basdxz:capedev
+SanMan911:capedev
 someRandomGuyWithRidicouslyLongUserName:capedonor
