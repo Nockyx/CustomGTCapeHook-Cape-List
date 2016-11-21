@@ -1,3 +1,4 @@
+someRandomGuyWithRidicouslyLongUserName:capedonor
 tec_SG:capetec
 Arnab:capedev
 DreamMasterXXL:capedev
@@ -5,4 +6,8 @@ Drobac:capedev
 Teteros:capedev
 basdxz:capetec
 SanMan911:capedev
-someRandomGuyWithRidicouslyLongUserName:capedonor
+bigbass1997:capedev
+Namikon:capedev
+Logy1:capedonor
+Rijodan:capedonor
+pIscript:capetec
