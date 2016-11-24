@@ -11,3 +11,4 @@ Namikon:capedev
 Logy1:capedonor
 Rijodan:capedonor
 pIscript:capetec
+Zaromas:capedonor
