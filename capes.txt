@@ -1,5 +1,5 @@
 someRandomGuyWithRidicouslyLongUserName:capedonor
-tec_SG:capetec
+_Technus_:capetec
 Arnab:capedev
 DreamMasterXXL:capedev
 Drobac:capedev
