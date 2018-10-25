@@ -5,7 +5,6 @@ DreamMasterXXL:capedev
 Drobac:capedev
 Teteros:capedev
 basdxz:capetec
-Cinobi:capedev
 bigbass1997:capedev
 Namikon:capedev
 Logy1:capedonor
