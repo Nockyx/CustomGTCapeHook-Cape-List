@@ -74,3 +74,6 @@ glease:capedev
 AcidEgoist:capedonor
 centmeteenvin:capedonor
 Tirm:capedonor
+Lardyking:capedonor
+Elegal:capedonor
+invultri:capedonor
