@@ -31,6 +31,7 @@ Saulbuscus:capedonor
 bedrill:capedonor
 braeven:capedonor
 Bubuzela:capedonor
+_Shadii_:capedonor
 simster898:capedonor
 Combuster:capedonor
 Darkstar1712:capedonor
