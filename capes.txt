@@ -86,3 +86,4 @@ Rezden:capedonor
 YoungOnion:capedonor
 hucking:capedonor
 vertibirdo:capedonor
+Logos:capedonor
