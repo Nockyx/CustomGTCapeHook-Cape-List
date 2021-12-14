@@ -123,3 +123,4 @@ El_Stampede:capedev
 Yarntheory:capedonor
 draknyte1:capedev
 FOOT_MILK:capedonor
+CryptoSlayer:capedonor
