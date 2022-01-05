@@ -126,3 +126,8 @@ FOOT_MILK:capedonor
 Hachuurui:capedonor
 CryptoSlayer:capedonor
 nwmqpa:capedonor
+FirstBigFor:capedonor
+FakeValueKing:capedonor
+choucousse:capedonor
+DonsOfGaming:capedonor
+xmainframe:capedonor
