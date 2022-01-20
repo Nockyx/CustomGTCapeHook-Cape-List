@@ -131,3 +131,4 @@ FakeValueKing:capedonor
 choucousse:capedonor
 DonsOfGaming:capedonor
 xmainframe:capedonor
+bombcar:capedev
