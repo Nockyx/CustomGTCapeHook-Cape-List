@@ -132,3 +132,10 @@ choucousse:capedonor
 DonsOfGaming:capedonor
 xmainframe:capedonor
 bombcar:capedev
+mchugh214:capedonor
+Spowart:capedonor
+FR_capal:capedonor
+Turtwig107:capedonor
+AgentAuers:capedonor
+szymon12w:capedonor
+Urs0:capedonor
