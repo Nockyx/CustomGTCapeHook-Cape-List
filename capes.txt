@@ -7,6 +7,7 @@ Teteros:capedev
 basdxz:capetec
 bigbass1997:capedev
 Namikon:capedev
+Colen:capedev
 Logy1:capedonor
 Rijodan:capedonor
 pIscript:capetec
@@ -139,3 +140,9 @@ Turtwig107:capedonor
 AgentAuers:capedonor
 szymon12w:capedonor
 Urs0:capedonor
+wolfdehulster:capedonor
+srdr2003:capedonor
+Spacebuilder2020:capedonor
+KhonaBetwanhe:capedonor
+Bamsteh:capedonor
+DooMQuiGonJinn:capedonor
