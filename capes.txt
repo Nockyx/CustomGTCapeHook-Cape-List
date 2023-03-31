@@ -11,6 +11,8 @@ Colen:capedev
 Mad_Man310:capedev
 minecraft7771:capedev
 BlueWeabo:capedev
+kuba6000:capedev
+Runakai:capedev
 Logy1:capedonor
 Rijodan:capedonor
 pIscript:capetec
