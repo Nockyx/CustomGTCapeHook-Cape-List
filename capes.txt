@@ -13,6 +13,7 @@ minecraft7771:capedev
 BlueWeabo:capedev
 kuba6000:capedev
 Runakai:capedev
+GreasyBuns:capedev
 Logy1:capedonor
 Rijodan:capedonor
 pIscript:capetec
