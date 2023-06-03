@@ -108,7 +108,7 @@ Szajkop:capedonor
 un_nain_souciant:capedonor
 helmavatar:capedonor
 MeniMeni:capedonor
-POPlol333:capedonor
+POPlol333:cape_stargate
 RedNicStone:capedonor
 PinguinTrooper:capedonor
 qDshun:capedonor
