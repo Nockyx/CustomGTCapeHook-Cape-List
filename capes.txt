@@ -15,6 +15,7 @@ kuba6000:capedev
 Runakai:capedev
 GreasyBuns:capedev
 EigenRaven:capedev
+miozune:capedev
 Logy1:capedonor
 Rijodan:capedonor
 pIscript:capetec
