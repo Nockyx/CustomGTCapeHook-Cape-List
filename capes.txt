@@ -207,3 +207,6 @@ ojemine:cape_neutronium
 Poppo:cape_neutronium
 Strat0z:cape_titanium
 Billionth00:cape_stargate
+Schnavid:cape_steam
+Emve:cape_neutronium
+SMAJLIK73:cape_neutronium
