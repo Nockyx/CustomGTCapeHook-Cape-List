@@ -205,3 +205,5 @@ psehr:cape_steam
 Torvik_:cape_steam
 ojemine:cape_neutronium
 Poppo:cape_neutronium
+Strat0z:cape_titanium
+Billionth00:cape_stargate
