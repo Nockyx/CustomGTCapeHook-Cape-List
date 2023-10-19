@@ -215,3 +215,10 @@ shiftegan:cape_stargate
 WungTung:cape_neutronium
 Aiseus:cape_titanium
 blueleaf54:cape_stargate
+Impossible_VT:capedonor
+anon:cape_stargate
+Abdiel_Kavash:cape_stargate
+rilliko:cape_stargate
+Evaleon:cape_stargate
+pxldx:cape_stargate
+NexusNull:cape_stargate
