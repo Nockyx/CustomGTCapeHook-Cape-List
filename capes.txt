@@ -222,3 +222,4 @@ rilliko:cape_stargate
 Evaleon:cape_stargate
 pxldx:cape_stargate
 NexusNull:cape_stargate
+Quantumly:cape_stargate
