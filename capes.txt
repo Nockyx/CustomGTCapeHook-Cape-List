@@ -14,6 +14,7 @@ Runakai:capedev
 GreasyBuns:capedev
 EigenRaven:capedev
 miozune:capedev
+HeadOfMetal:capedev
 Logy1:capedonor
 Rijodan:capedonor
 Zaromas:capedonor
