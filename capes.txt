@@ -20,6 +20,7 @@ Rijodan:capedonor
 Zaromas:capedonor
 silverleaf69:capedonor
 Bryfer:capedev
+Lewis_Saber:capedev
 Kathreen:capedonor
 gmousss:capedonor
 Day0Dreamer:capedonor
@@ -195,7 +196,6 @@ ttiole:cape_stargate
 K_0ji:cape_stargate
 MimiKe_:cape_stargate
 werduz:cape_stargate
-Lewis_Saber:cape_steam
 Chaos_Filler:cape_steam
 Kankytwist:cape_steam
 Villager361:cape_steam
