@@ -260,3 +260,6 @@ iskabot:cape_steam
 Omeganeth:cape_stargate
 nemo075:cape_titanium
 Tip_Donaldson:capedonor
+Calcarea:cape_stargate
+CLEPTO:cape_stargate
+Rhewn:capedonor
