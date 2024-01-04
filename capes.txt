@@ -158,6 +158,7 @@ Kankytwist:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
 MrDecimus:cape_steam
+Niko_mon:cape_steam
 Paner:cape_steam
 psehr:cape_steam
 Schnavid:cape_steam
@@ -190,6 +191,7 @@ _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
 Ambaw:cape_stargate
 anon:cape_stargate
+BeardBois:cape_stargate
 Billionth00:cape_stargate
 blueleaf54:cape_stargate
 Calcarea:cape_stargate
@@ -203,12 +205,14 @@ GRiggs45:cape_stargate
 Jordan3688:cape_stargate
 Justiokas:cape_stargate
 K_0ji:cape_stargate
+KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 MimiKe_:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
 nugget61565:cape_stargate
+Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
 Omeganeth:cape_stargate
 POPlol333:cape_stargate
