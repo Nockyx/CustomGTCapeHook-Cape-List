@@ -221,8 +221,10 @@ pxldx:cape_stargate
 Quantumly:cape_stargate
 queeek180:cape_stargate
 ragnarokjak:cape_stargate
+ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 shiftegan:cape_stargate
+SlouchyLoki:cape_stargate
 Snateraar:cape_stargate
 ttiole:cape_stargate
 Vingy_:cape_stargate
