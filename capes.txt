@@ -152,6 +152,8 @@ ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
 Chaos_Filler:cape_steam
+DesCuddlebat:cape_steam
+djaquay:cape_steam
 Glubit:cape_steam
 iskabot:cape_steam
 Kankytwist:cape_steam
@@ -172,7 +174,6 @@ Aiseus:cape_titanium
 michaels84:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
-nemo075:cape_titanium
 PureBluez:cape_titanium
 Strat0z:cape_titanium
 Thokert:cape_titanium
@@ -187,6 +188,7 @@ SMAJLIK73:cape_neutronium
 Willshaper:cape_neutronium
 WungTung:cape_neutronium
 __tomm__:cape_stargate
+_Hokey:cape_stargate
 _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
 Ambaw:cape_stargate
@@ -209,6 +211,7 @@ KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 MimiKe_:cape_stargate
+nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
 nugget61565:cape_stargate
@@ -216,6 +219,7 @@ Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
 Omeganeth:cape_stargate
 POPlol333:cape_stargate
+PrinceDeo:cape_stargate
 purplestove:cape_stargate
 pxldx:cape_stargate
 Quantumly:cape_stargate
