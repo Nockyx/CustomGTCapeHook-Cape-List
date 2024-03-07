@@ -160,6 +160,7 @@ iskabot:cape_steam
 Kankytwist:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
+lerendo:cape_steam
 MrDecimus:cape_steam
 Niko_mon:cape_steam
 Paner:cape_steam
@@ -172,6 +173,7 @@ Verknaller:cape_steam
 Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+jurrejelle:cape_titanium
 michaels84:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
@@ -186,6 +188,7 @@ ojemine:cape_neutronium
 Poppo:cape_neutronium
 Ranai:cape_neutronium
 SMAJLIK73:cape_neutronium
+WendeWende:cape_neutronium
 Willshaper:cape_neutronium
 WungTung:cape_neutronium
 __tomm__:cape_stargate
@@ -201,6 +204,7 @@ Calcarea:cape_stargate
 CLEPTO:cape_stargate
 Clta:cape_stargate
 Crusader2835:cape_stargate
+davidca1226:cape_stargate
 Deathstare:cape_stargate
 Eason1134HK:cape_stargate
 Evaleon:cape_stargate
@@ -208,6 +212,7 @@ GRiggs45:cape_stargate
 Jordan3688:cape_stargate
 Justiokas:cape_stargate
 K_0ji:cape_stargate
+Kankashii:cape_stargate
 KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
@@ -216,6 +221,7 @@ nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
 nugget61565:cape_stargate
+Nustafar:cape_stargate
 Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
 Omeganeth:cape_stargate
@@ -231,8 +237,11 @@ rilliko:cape_stargate
 shiftegan:cape_stargate
 SlouchyLoki:cape_stargate
 Snateraar:cape_stargate
+stupidwalrus:cape_stargate
+Tsiama907:cape_stargate
 ttiole:cape_stargate
 Vingy_:cape_stargate
+vladtheinhaler64:cape_stargate
 werduz:cape_stargate
 Wtz_LASR:cape_stargate
 Zouldir:cape_stargate
