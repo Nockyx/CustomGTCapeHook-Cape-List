@@ -20,6 +20,7 @@ Bimgo:capedonor
 boubou_19:capedonor
 braeven:capedonor
 Bubuzela:capedonor
+CaeruleusBlue:capedonor
 Cally_Koh:capedonor
 centmeteenvin:capedonor
 CharlieTuna8:capedonor
@@ -83,7 +84,6 @@ Logos:capedonor
 Logy1:capedonor
 lordshelby:capedonor
 MaitreCarl:capedonor
-McFlausch:capedonor
 mchugh214:capedonor
 MeniMeni:capedonor
 MessyMeni:capedonor
@@ -162,6 +162,7 @@ KH__Hansano:cape_steam
 L4now:cape_steam
 lerendo:cape_steam
 MrDecimus:cape_steam
+MrG:cape_steam
 Niko_mon:cape_steam
 Paner:cape_steam
 psehr:cape_steam
@@ -173,10 +174,13 @@ Verknaller:cape_steam
 Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+JamesArhy:cape_titanium
 jurrejelle:cape_titanium
+Kremnari:cape_titanium
 michaels84:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
+P0rtal:cape_titanium
 PureBluez:cape_titanium
 Strat0z:cape_titanium
 Thokert:cape_titanium
@@ -188,9 +192,11 @@ ojemine:cape_neutronium
 Poppo:cape_neutronium
 Ranai:cape_neutronium
 SMAJLIK73:cape_neutronium
+UwUdwagon:cape_neutronium
 WendeWende:cape_neutronium
 Willshaper:cape_neutronium
 WungTung:cape_neutronium
+3rectefied:cape_stargate
 __tomm__:cape_stargate
 _Hokey:cape_stargate
 _the_:cape_stargate
@@ -203,12 +209,16 @@ blueleaf54:cape_stargate
 Calcarea:cape_stargate
 CLEPTO:cape_stargate
 Clta:cape_stargate
+Cozzmolot:cape_stargate
 Crusader2835:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
+Diddy:cape_stargate
 Eason1134HK:cape_stargate
 Evaleon:cape_stargate
+Frikkle:cape_stargate
 GRiggs45:cape_stargate
+HistoryNoob:cape_stargate
 Jordan3688:cape_stargate
 Justiokas:cape_stargate
 K_0ji:cape_stargate
@@ -216,10 +226,12 @@ Kankashii:cape_stargate
 KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
+McFlausch:cape_stargate
 MimiKe_:cape_stargate
 nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
+Nick5131:cape_stargate
 nugget61565:cape_stargate
 Nustafar:cape_stargate
 Octorok_On:cape_stargate
@@ -242,6 +254,7 @@ Tsiama907:cape_stargate
 ttiole:cape_stargate
 Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
+WarriorBobRoss:cape_stargate
 werduz:cape_stargate
 Wtz_LASR:cape_stargate
 Zouldir:cape_stargate
