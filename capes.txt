@@ -31,6 +31,7 @@ cristicsk:capedonor
 CryptoSlayer:capedonor
 Cyres1881:capedonor
 Dad2Triplets:capedonor
+Dannybluee:capedonor
 Darkstar1712:capedonor
 Day0Dreamer:capedonor
 Dejnol:capedonor
@@ -133,7 +134,6 @@ TheMaddog91:capedonor
 Tip_Donaldson:capedonor
 Tirm:capedonor
 Turtwig107:capedonor
-UltraPeeks:capedonor
 un_nain_souciant:capedonor
 Urs0:capedonor
 vertibirdo:capedonor
@@ -161,6 +161,7 @@ Kankytwist:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
 lerendo:cape_steam
+leumasme:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
 Niko_mon:cape_steam
@@ -183,7 +184,9 @@ MorganC46:cape_titanium
 P0rtal:cape_titanium
 PureBluez:cape_titanium
 Strat0z:cape_titanium
+thedragonfoxee:cape_titanium
 Thokert:cape_titanium
+UltraPeeks:cape_titanium
 Wylnexon:cape_titanium
 Der_Giant:cape_neutronium
 Emve:cape_neutronium
@@ -247,6 +250,7 @@ ragnarokjak:cape_stargate
 ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 shiftegan:cape_stargate
+SlavetotheMetal:cape_stargate
 SlouchyLoki:cape_stargate
 Snateraar:cape_stargate
 stupidwalrus:cape_stargate
