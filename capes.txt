@@ -234,6 +234,7 @@ MimiKe_:cape_stargate
 nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
+Ngar:cape_stargate
 Nick5131:cape_stargate
 nugget61565:cape_stargate
 Nustafar:cape_stargate
@@ -247,6 +248,7 @@ pxldx:cape_stargate
 Quantumly:cape_stargate
 queeek180:cape_stargate
 ragnarokjak:cape_stargate
+Rami_114:cape_stargate
 ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 shiftegan:cape_stargate
