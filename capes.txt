@@ -164,6 +164,7 @@ lerendo:cape_steam
 leumasme:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
+MrGundum:cape_steam
 Niko_mon:cape_steam
 Paner:cape_steam
 psehr:cape_steam
