@@ -80,6 +80,7 @@ kh2182:capedonor
 KhonaBetwanhe:capedonor
 Konisz:capedonor
 Lardyking:capedonor
+LCale456:capedonor
 LittleCircles:capedonor
 Logos:capedonor
 Logy1:capedonor
@@ -138,6 +139,7 @@ un_nain_souciant:capedonor
 Urs0:capedonor
 vertibirdo:capedonor
 viljar290:capedonor
+Villemvk123:capedonor
 VovAksenov:capedonor
 wolfdehulster:capedonor
 xabedo:capedonor
@@ -155,9 +157,9 @@ Zyphier:capedonor
 Chaos_Filler:cape_steam
 DesCuddlebat:cape_steam
 djaquay:cape_steam
+FreedomFR:cape_steam
 Glubit:cape_steam
 iskabot:cape_steam
-Kankytwist:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
 lerendo:cape_steam
@@ -215,6 +217,7 @@ CLEPTO:cape_stargate
 Clta:cape_stargate
 Cozzmolot:cape_stargate
 Crusader2835:cape_stargate
+Damos1212:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
 Diddy:cape_stargate
@@ -227,6 +230,7 @@ Jordan3688:cape_stargate
 Justiokas:cape_stargate
 K_0ji:cape_stargate
 Kankashii:cape_stargate
+Kankytwist:cape_stargate
 KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
@@ -264,6 +268,7 @@ vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
 werduz:cape_stargate
 Wtz_LASR:cape_stargate
+zachary8530:cape_stargate
 Zouldir:cape_stargate
 Arnab:capedev
 bigbass1997:capedev
