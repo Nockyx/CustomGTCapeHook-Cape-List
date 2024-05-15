@@ -220,7 +220,7 @@ Crusader2835:cape_stargate
 Damos1212:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
-Diddy:cape_stargate
+DaddyDiddy:cape_stargate
 Eason1134HK:cape_stargate
 Evaleon:cape_stargate
 Frikkle:cape_stargate
