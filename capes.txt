@@ -192,6 +192,7 @@ Thokert:cape_titanium
 UltraPeeks:cape_titanium
 Wylnexon:cape_titanium
 Der_Giant:cape_neutronium
+diCardinale:cape_neutronium
 Emve:cape_neutronium
 Hydrant:cape_neutronium
 ojemine:cape_neutronium
@@ -262,6 +263,7 @@ Rami_114:cape_stargate
 ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 shiftegan:cape_stargate
+Sir_Fluffyngton:cape_stargate
 SlavetotheMetal:cape_stargate
 SlouchyLoki:cape_stargate
 Snateraar:cape_stargate
