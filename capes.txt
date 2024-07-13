@@ -243,6 +243,7 @@ LordOfLongNez:cape_stargate
 Luna264:cape_stargate
 McFlausch:cape_stargate
 MimiKe_:cape_stargate
+MisterGreed:cape_stargate
 nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
