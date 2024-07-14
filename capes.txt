@@ -188,6 +188,7 @@ MorganC46:cape_titanium
 P0rtal:cape_titanium
 PureBluez:cape_titanium
 Strat0z:cape_titanium
+texaswriter:cape_titanium
 thedragonfoxee:cape_titanium
 Thokert:cape_titanium
 UltraPeeks:cape_titanium
