@@ -157,6 +157,7 @@ Zyphier:capedonor
 CrymaOfficial:cape_steam
 DesCuddlebat:cape_steam
 djaquay:cape_steam
+Dreadsoul:cape_steam
 FreedomFR:cape_steam
 Glubit:cape_steam
 Grubling:cape_steam
