@@ -274,6 +274,7 @@ shiftegan:cape_stargate
 Sir_Fluffyngton:cape_stargate
 SlavetotheMetal:cape_stargate
 SlouchyLoki:cape_stargate
+Smalnik:cape_stargate
 Snateraar:cape_stargate
 stupidwalrus:cape_stargate
 Tsiama907:cape_stargate
