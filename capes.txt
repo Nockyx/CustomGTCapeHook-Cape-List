@@ -46,6 +46,7 @@ DragonTriplets:capedonor
 dutsky:capedonor
 dxplosiv3:capedonor
 Elegal:capedonor
+EllaWolf2:capedonor
 ElNounch:capedonor
 endworld123:capedonor
 Excruciation:capedonor
