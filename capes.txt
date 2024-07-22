@@ -26,6 +26,7 @@ centmeteenvin:capedonor
 CharlieTuna8:capedonor
 choucousse:capedonor
 Combuster:capedonor
+Cordo52:capedonor
 CowboyCave:capedonor
 cristicsk:capedonor
 CryptoSlayer:capedonor
