@@ -185,6 +185,7 @@ Aiseus:cape_titanium
 JamesArhy:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
+Lelo_Saiyan:cape_titanium
 michaels84:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
