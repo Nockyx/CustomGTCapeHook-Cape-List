@@ -125,7 +125,6 @@ Sirheavens:capedonor
 sirheavens:capedonor
 slyd0x:capedonor
 someRandomGuyWithRidicouslyLongUserName:capedonor
-SoupTopic:capedonor
 Spacebuilder2020:capedonor
 Spowart:capedonor
 Srdra:capedonor
@@ -280,6 +279,7 @@ SlavetotheMetal:cape_stargate
 SlouchyLoki:cape_stargate
 Smalnik:cape_stargate
 Snateraar:cape_stargate
+SoupTopic:cape_stargate
 stupidwalrus:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
