@@ -283,6 +283,7 @@ Smalnik:cape_stargate
 Snateraar:cape_stargate
 SoupTopic:cape_stargate
 stupidwalrus:cape_stargate
+SuperficialCake:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
 Vingy_:cape_stargate
