@@ -181,6 +181,7 @@ Verknaller:cape_steam
 Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+Hamster420:cape_titanium
 JamesArhy:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
@@ -248,6 +249,7 @@ Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
 McFlausch:cape_stargate
+Meishuu:cape_stargate
 MimiKe_:cape_stargate
 MisterGreed:cape_stargate
 nemo075:cape_stargate
