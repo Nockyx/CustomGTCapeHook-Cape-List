@@ -217,6 +217,7 @@ Abdiel_Kavash:cape_stargate
 Ambaw:cape_stargate
 anon:cape_stargate
 BeardBois:cape_stargate
+bechill:cape_stargate
 Billionth00:cape_stargate
 blueleaf54:cape_stargate
 Calcarea:cape_stargate
