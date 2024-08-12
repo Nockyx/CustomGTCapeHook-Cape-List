@@ -221,6 +221,7 @@ BeardBois:cape_stargate
 bechill:cape_stargate
 Billionth00:cape_stargate
 blueleaf54:cape_stargate
+caca_le_chat:cape_stargate
 Calcarea:cape_stargate
 Chaos_Filler:cape_stargate
 CLEPTO:cape_stargate
