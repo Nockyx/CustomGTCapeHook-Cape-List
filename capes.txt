@@ -156,6 +156,7 @@ ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
 CrymaOfficial:cape_steam
+Daarkenis:cape_steam
 DesCuddlebat:cape_steam
 djaquay:cape_steam
 Dreadsoul:cape_steam
