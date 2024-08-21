@@ -221,6 +221,7 @@ anon:cape_stargate
 BeardBois:cape_stargate
 bechill:cape_stargate
 Billionth00:cape_stargate
+BKCRMWDJVG:cape_stargate
 blueleaf54:cape_stargate
 caca_le_chat:cape_stargate
 Calcarea:cape_stargate
@@ -242,6 +243,7 @@ gramalac:cape_stargate
 GRiggs45:cape_stargate
 HistoryNoob:cape_stargate
 Homer:cape_stargate
+Hornum_:cape_stargate
 Jebud:cape_stargate
 Jordan3688:cape_stargate
 Justiokas:cape_stargate
@@ -268,7 +270,6 @@ Nustafar:cape_stargate
 Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
 Omeganeth:cape_stargate
-Hornum_:cape_stargate
 PrinceDeo:cape_stargate
 purplestove:cape_stargate
 pxldx:cape_stargate
