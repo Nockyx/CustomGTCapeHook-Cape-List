@@ -10,6 +10,7 @@ aglowXYZ:capedonor
 AlastarDArk:capedonor
 Alrightsc:capedonor
 AlucardMGrim:capedonor
+Arixmatic:capedonor
 asturrial:capedonor
 Bamsteh:capedonor
 Barokko:capedonor
