@@ -95,6 +95,7 @@ MortiferDec:capedonor
 Naquada:capedonor
 Nayloch:capedonor
 nightmanhh:capedonor
+NoctisCalamitas:capedonor
 Nori_Silverrage:capedonor
 nroe1337:capedonor
 nuka_cole:capedonor
