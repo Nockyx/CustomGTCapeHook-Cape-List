@@ -194,6 +194,7 @@ MorganC46:cape_titanium
 P0rtal:cape_titanium
 PureBluez:cape_titanium
 s0urdough:cape_titanium
+SPARKPLUGx44:cape_titanium
 Stereo528:cape_titanium
 Strat0z:cape_titanium
 texaswriter:cape_titanium
