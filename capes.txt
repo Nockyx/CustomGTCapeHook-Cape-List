@@ -184,6 +184,7 @@ Verknaller:cape_steam
 Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+codidu:cape_titanium
 Hamster420:cape_titanium
 JamesArhy:cape_titanium
 jurrejelle:cape_titanium
@@ -192,6 +193,7 @@ Lelo_Saiyan:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
 P0rtal:cape_titanium
+ProphecyOak:cape_titanium
 PureBluez:cape_titanium
 s0urdough:cape_titanium
 SPARKPLUGx44:cape_titanium
