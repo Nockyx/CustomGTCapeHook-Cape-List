@@ -19,6 +19,7 @@ bedrill:capedonor
 bi0nicman:capedonor
 Bimgo:capedonor
 boubou_19:capedonor
+BouwerMan:capedonor
 braeven:capedonor
 Bubuzela:capedonor
 CaeruleusBlue:capedonor
