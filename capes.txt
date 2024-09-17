@@ -231,6 +231,7 @@ bechill:cape_stargate
 Billionth00:cape_stargate
 BKCRMWDJVG:cape_stargate
 blueleaf54:cape_stargate
+Brando:cape_stargate
 caca_le_chat:cape_stargate
 Calcarea:cape_stargate
 Chaos_Filler:cape_stargate
