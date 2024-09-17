@@ -221,6 +221,7 @@ Willshaper:cape_neutronium
 WungTung:cape_neutronium
 3rectefied:cape_stargate
 __tomm__:cape_stargate
+__Trollface:cape_stargate
 _Hokey:cape_stargate
 _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
