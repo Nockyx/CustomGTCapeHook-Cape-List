@@ -158,6 +158,7 @@ ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
 CrymaOfficial:cape_steam
+cyypr:cape_steam
 Daarkenis:cape_steam
 DesCuddlebat:cape_steam
 djaquay:cape_steam
@@ -208,6 +209,7 @@ Wylnexon:cape_titanium
 Der_Giant:cape_neutronium
 diCardinale:cape_neutronium
 Emve:cape_neutronium
+honzastastny:cape_neutronium
 Hydrant:cape_neutronium
 ojemine:cape_neutronium
 Poppo:cape_neutronium
@@ -261,6 +263,7 @@ KuchenHead:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
+Lynx_Amurie:cape_stargate
 McFlausch:cape_stargate
 Meishuu:cape_stargate
 michaels84:cape_stargate
