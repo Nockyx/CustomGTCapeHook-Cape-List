@@ -171,7 +171,6 @@ Hungerya:cape_steam
 iskabot:cape_steam
 KH__Hansano:cape_steam
 L4now:cape_steam
-lerendo:cape_steam
 leumasme:cape_steam
 MrDecimus:cape_steam
 MrG:cape_steam
@@ -265,6 +264,7 @@ K_0ji:cape_stargate
 Kankashii:cape_stargate
 Kankytwist:cape_stargate
 KuchenHead:cape_stargate
+lerendo:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
