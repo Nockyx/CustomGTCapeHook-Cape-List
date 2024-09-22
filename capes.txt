@@ -186,7 +186,6 @@ Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
 codidu:cape_titanium
-Hamster420:cape_titanium
 JamesArhy:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
@@ -243,6 +242,7 @@ DaddyDiddy:cape_stargate
 Damos1212:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
+Diliskars:cape_stargate
 DrRatmouse:cape_stargate
 Eason1134HK:cape_stargate
 Evaleon:cape_stargate
@@ -251,6 +251,7 @@ Frikkle:cape_stargate
 GlycemiaDaddy:cape_stargate
 gramalac:cape_stargate
 GRiggs45:cape_stargate
+Hamster420:cape_stargate
 HistoryNoob:cape_stargate
 Homer:cape_stargate
 Hornum_:cape_stargate
@@ -305,6 +306,7 @@ Snateraar:cape_stargate
 SoupTopic:cape_stargate
 stupidwalrus:cape_stargate
 SuperficialCake:cape_stargate
+Tee_129:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
 Vingy_:cape_stargate
