@@ -315,6 +315,7 @@ Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
 werduz:cape_stargate
+White_Night_awa:cape_stargate
 Wtz_LASR:cape_stargate
 Yurdol:cape_stargate
 zachary8530:cape_stargate
