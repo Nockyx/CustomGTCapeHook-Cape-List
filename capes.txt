@@ -208,6 +208,7 @@ UltraPeeks:cape_titanium
 Wylnexon:cape_titanium
 Der_Giant:cape_neutronium
 diCardinale:cape_neutronium
+Echo_Djinn:cape_neutronium
 Emve:cape_neutronium
 honzastastny:cape_neutronium
 Hydrant:cape_neutronium
