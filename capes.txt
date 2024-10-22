@@ -161,6 +161,7 @@ CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
 DesCuddlebat:cape_steam
+Diamantino_Op:cape_steam
 djaquay:cape_steam
 Dreadsoul:cape_steam
 FreedomFR:cape_steam
