@@ -226,6 +226,7 @@ __Trollface:cape_stargate
 _Hokey:cape_stargate
 _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
+alphaomega21:cape_stargate
 Ambaw:cape_stargate
 anon:cape_stargate
 BeardBois:cape_stargate
@@ -240,6 +241,7 @@ Chaos_Filler:cape_stargate
 CLEPTO:cape_stargate
 Clta:cape_stargate
 Cozzmolot:cape_stargate
+Crumpitx:cape_stargate
 Crusader2835:cape_stargate
 DaddyDiddy:cape_stargate
 Damos1212:cape_stargate
@@ -254,6 +256,7 @@ Frikkle:cape_stargate
 GlycemiaDaddy:cape_stargate
 gramalac:cape_stargate
 GRiggs45:cape_stargate
+gutsy_trev:cape_stargate
 Hamster420:cape_stargate
 HistoryNoob:cape_stargate
 Homer:cape_stargate
