@@ -28,6 +28,7 @@ Cally_Koh:capedonor
 centmeteenvin:capedonor
 CharlieTuna8:capedonor
 choucousse:capedonor
+CHuDO_LD:capedonor
 Combuster:capedonor
 Cordo52:capedonor
 CowboyCave:capedonor
