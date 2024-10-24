@@ -249,6 +249,7 @@ Crumpitx:cape_stargate
 Crusader2835:cape_stargate
 DaddyDiddy:cape_stargate
 Damos1212:cape_stargate
+Darkmaxsas:cape_stargate
 davidca1226:cape_stargate
 Deathstare:cape_stargate
 Diliskars:cape_stargate
