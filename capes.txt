@@ -280,6 +280,7 @@ lerendo:cape_stargate
 Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
+lushiita:cape_stargate
 Lynx_Amurie:cape_stargate
 McFlausch:cape_stargate
 Meishuu:cape_stargate
