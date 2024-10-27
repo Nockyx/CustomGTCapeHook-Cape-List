@@ -161,6 +161,7 @@ Zeus1401:capedonor
 ZMacJ3reake:capedonor
 zMacj3reake:capedonor
 Zyphier:capedonor
+Apocal_Hyps:cape_steam
 CrymaOfficial:cape_steam
 cyypr:cape_steam
 Daarkenis:cape_steam
@@ -282,6 +283,7 @@ Lord_Peverell99:cape_stargate
 LordOfLongNez:cape_stargate
 Luna264:cape_stargate
 lushiita:cape_stargate
+Lynx1311:cape_stargate
 Lynx_Amurie:cape_stargate
 MattyGroGy:cape_stargate
 McFlausch:cape_stargate
