@@ -200,6 +200,7 @@ Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
+Nulatari:cape_titanium
 P0rtal:cape_titanium
 ProphecyOak:cape_titanium
 PureBluez:cape_titanium
