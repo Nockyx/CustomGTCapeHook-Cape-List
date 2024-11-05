@@ -194,6 +194,7 @@ ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
 codidu:cape_titanium
 Ender:cape_titanium
+FerretCentral:cape_titanium
 JamesArhy:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
