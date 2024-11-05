@@ -324,6 +324,7 @@ Snateraar:cape_stargate
 SoupTopic:cape_stargate
 stupidwalrus:cape_stargate
 SuperficialCake:cape_stargate
+Superhond1357:cape_stargate
 Tee_129:cape_stargate
 TendouAL_1S:cape_stargate
 TheSugarLump:cape_stargate
