@@ -304,6 +304,7 @@ Nustafar:cape_stargate
 Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
 Omeganeth:cape_stargate
+Predictive_:cape_stargate
 PrinceDeo:cape_stargate
 purplestove:cape_stargate
 pxldx:cape_stargate
