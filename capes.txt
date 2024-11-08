@@ -234,6 +234,7 @@ __Trollface:cape_stargate
 _Hokey:cape_stargate
 _the_:cape_stargate
 Abdiel_Kavash:cape_stargate
+ActuallyMage:cape_stargate
 alphaomega21:cape_stargate
 Ambaw:cape_stargate
 anon:cape_stargate
