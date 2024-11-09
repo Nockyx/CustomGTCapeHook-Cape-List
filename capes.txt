@@ -333,6 +333,7 @@ TendouAL_1S:cape_stargate
 TheSugarLump:cape_stargate
 Tsiama907:cape_stargate
 ttiole:cape_stargate
+Valuta:cape_stargate
 Vingy_:cape_stargate
 vladtheinhaler64:cape_stargate
 WarriorBobRoss:cape_stargate
