@@ -300,6 +300,7 @@ NerverHD:cape_stargate
 NexusNull:cape_stargate
 Ngar:cape_stargate
 Nick5131:cape_stargate
+Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
 nugget61565:cape_stargate
 Nustafar:cape_stargate
