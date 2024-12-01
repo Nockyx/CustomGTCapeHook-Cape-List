@@ -213,6 +213,7 @@ texaswriter:cape_titanium
 thedragonfoxee:cape_titanium
 Thokert:cape_titanium
 UltraPeeks:cape_titanium
+wnoa:cape_titanium
 Wylnexon:cape_titanium
 Der_Giant:cape_neutronium
 diCardinale:cape_neutronium
