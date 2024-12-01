@@ -325,6 +325,7 @@ SlavetotheMetal:cape_stargate
 SlouchyLoki:cape_stargate
 Smalnik:cape_stargate
 Snateraar:cape_stargate
+Snowleopoldxxx67:cape_stargate
 SoupTopic:cape_stargate
 stupidwalrus:cape_stargate
 SuperficialCake:cape_stargate
