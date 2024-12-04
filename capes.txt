@@ -277,6 +277,7 @@ IrisMoonglow:cape_stargate
 Jebud:cape_stargate
 Jordan3688:cape_stargate
 Just_Benji:cape_stargate
+JustACasualDay:cape_stargate
 JustBenji:cape_stargate
 Justiokas:cape_stargate
 K_0ji:cape_stargate
