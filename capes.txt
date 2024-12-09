@@ -244,6 +244,7 @@ BeardBois:cape_stargate
 bechill:cape_stargate
 Billionth00:cape_stargate
 BKCRMWDJVG:cape_stargate
+blaasfM:cape_stargate
 blueleaf54:cape_stargate
 Brando:cape_stargate
 caca_le_chat:cape_stargate
