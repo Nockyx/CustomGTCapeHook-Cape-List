@@ -266,6 +266,7 @@ davidca1226:cape_stargate
 Deathstare:cape_stargate
 Diliskars:cape_stargate
 DrRatmouse:cape_stargate
+DrVonBraun:cape_stargate
 E_StarK:cape_stargate
 Eason1134HK:cape_stargate
 Evaleon:cape_stargate
