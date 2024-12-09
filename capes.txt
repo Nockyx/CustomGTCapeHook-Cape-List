@@ -269,6 +269,7 @@ Evaleon:cape_stargate
 FriendlyButFire:cape_stargate
 Frikkle:cape_stargate
 Frisia:cape_stargate
+Furious_2014:cape_stargate
 GlycemiaDaddy:cape_stargate
 gramalac:cape_stargate
 GRiggs45:cape_stargate
