@@ -252,6 +252,7 @@ blueleaf54:cape_stargate
 Brando:cape_stargate
 caca_le_chat:cape_stargate
 Calcarea:cape_stargate
+CAT_Atack:cape_stargate
 Chaos_Filler:cape_stargate
 CLEPTO:cape_stargate
 Clta:cape_stargate
