@@ -193,6 +193,7 @@ Verknaller:cape_steam
 Villager361:cape_steam
 ZetsuboNemurase:cape_steam
 Aiseus:cape_titanium
+clzola:cape_titanium
 codidu:cape_titanium
 Ender:cape_titanium
 FerretCentral:cape_titanium
@@ -299,6 +300,7 @@ lushiita:cape_stargate
 Lynx1311:cape_stargate
 Lynx_Amurie:cape_stargate
 MattyGroGy:cape_stargate
+maxi23090000:cape_stargate
 McFlausch:cape_stargate
 Meishuu:cape_stargate
 michaels84:cape_stargate
