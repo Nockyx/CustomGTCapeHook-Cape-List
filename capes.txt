@@ -306,6 +306,7 @@ Meishuu:cape_stargate
 michaels84:cape_stargate
 MimiKe_:cape_stargate
 MisterGreed:cape_stargate
+Mr_Ali_Mac:cape_stargate
 nemo075:cape_stargate
 NerverHD:cape_stargate
 NexusNull:cape_stargate
@@ -333,6 +334,7 @@ ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 RocketMaid:cape_stargate
 Sconeboy:cape_stargate
+Scrome:cape_stargate
 shiftegan:cape_stargate
 Sir_Fluffyngton:cape_stargate
 SlavetotheMetal:cape_stargate
