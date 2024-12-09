@@ -203,7 +203,6 @@ Lelo_Saiyan:cape_titanium
 LukaPix:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
-Nulatari:cape_titanium
 P0rtal:cape_titanium
 ProphecyOak:cape_titanium
 PureBluez:cape_titanium
@@ -313,6 +312,7 @@ Nick5131:cape_stargate
 Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
 nugget61565:cape_stargate
+Nulatari:cape_stargate
 Nustafar:cape_stargate
 Octorok_On:cape_stargate
 Ollie_de_Leeuw:cape_stargate
