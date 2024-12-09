@@ -199,6 +199,7 @@ JamesArhy:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
+LukaPix:cape_titanium
 Moogrok:cape_titanium
 MorganC46:cape_titanium
 Nulatari:cape_titanium
@@ -215,6 +216,7 @@ Thokert:cape_titanium
 UltraPeeks:cape_titanium
 wnoa:cape_titanium
 Wylnexon:cape_titanium
+xkuyax:cape_titanium
 Der_Giant:cape_neutronium
 diCardinale:cape_neutronium
 Echo_Djinn:cape_neutronium
