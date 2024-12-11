@@ -12,6 +12,7 @@ Alrightsc:capedonor
 AlucardMGrim:capedonor
 Anima:capedonor
 Arixmatic:capedonor
+AshenChromatic:capedonor
 asturrial:capedonor
 Bamsteh:capedonor
 Barokko:capedonor
@@ -284,6 +285,7 @@ HistoryNoob:cape_stargate
 Homer:cape_stargate
 Hornum_:cape_stargate
 IrisMoonglow:cape_stargate
+japio:cape_stargate
 Jebud:cape_stargate
 Jordan3688:cape_stargate
 Just_Benji:cape_stargate
