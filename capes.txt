@@ -104,7 +104,6 @@ nightmanhh:capedonor
 NoctisCalamitas:capedonor
 Nori_Silverrage:capedonor
 nroe1337:capedonor
-nuka_cole:capedonor
 nwmqpa:capedonor
 okka676767:capedonor
 Ourten:capedonor
@@ -319,6 +318,7 @@ Nick5131:cape_stargate
 Nicouuuuu:cape_stargate
 Niko_mon:cape_stargate
 nugget61565:cape_stargate
+nuka_cole:cape_stargate
 Nulatari:cape_stargate
 Nustafar:cape_stargate
 Octorok_On:cape_stargate
