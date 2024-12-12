@@ -243,6 +243,7 @@ AgentLA:cape_stargate
 alphaomega21:cape_stargate
 Ambaw:cape_stargate
 anon:cape_stargate
+ASOOD:cape_stargate
 BeardBois:cape_stargate
 bechill:cape_stargate
 Billionth00:cape_stargate
