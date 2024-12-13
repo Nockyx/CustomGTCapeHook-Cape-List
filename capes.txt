@@ -198,6 +198,7 @@ codidu:cape_titanium
 Ender:cape_titanium
 FerretCentral:cape_titanium
 JamesArhy:cape_titanium
+JerVenture:cape_titanium
 jurrejelle:cape_titanium
 Kremnari:cape_titanium
 Lelo_Saiyan:cape_titanium
