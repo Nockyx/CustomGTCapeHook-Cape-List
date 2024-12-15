@@ -7,11 +7,11 @@ _Timbo:capedonor
 AcidEgoist:capedonor
 AgentAuers:capedonor
 aglowXYZ:capedonor
+akirapriva:capedonor
 AlastarDArk:capedonor
 Alrightsc:capedonor
 AlucardMGrim:capedonor
 Anima:capedonor
-akirapriva:capedonor
 AshenChromatic:capedonor
 asturrial:capedonor
 Bamsteh:capedonor
@@ -129,7 +129,6 @@ silverleaf69:capedonor
 simster898:capedonor
 Sirheavens:capedonor
 sirheavens:capedonor
-slyd0x:capedonor
 someRandomGuyWithRidicouslyLongUserName:capedonor
 Spacebuilder2020:capedonor
 Spowart:capedonor
@@ -186,6 +185,7 @@ Paner:cape_steam
 psehr:cape_steam
 Quna:cape_steam
 Schnavid:cape_steam
+slyd0x:cape_steam
 SmokyMtnRed:cape_steam
 StevieNicholai:cape_steam
 thor_ragnason:cape_steam
