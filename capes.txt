@@ -11,7 +11,7 @@ AlastarDArk:capedonor
 Alrightsc:capedonor
 AlucardMGrim:capedonor
 Anima:capedonor
-Arixmatic:capedonor
+akirapriva:capedonor
 AshenChromatic:capedonor
 asturrial:capedonor
 Bamsteh:capedonor
