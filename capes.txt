@@ -342,6 +342,7 @@ Rami_114:cape_stargate
 ReignOfFROZE:cape_stargate
 rilliko:cape_stargate
 RocketMaid:cape_stargate
+Rubijox:cape_stargate
 Sconeboy:cape_stargate
 Scrome:cape_stargate
 shiftegan:cape_stargate
